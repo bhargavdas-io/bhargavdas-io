@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @bhargavdas-io
 - 👀 I’m interested in development of apps
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on Discord
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Python and Data Science
+- 📫 How to reach me ...bhargavdas77@hotmail.com
 
 <!---
 bhargavdas-io/bhargavdas-io is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
