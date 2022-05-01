@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @bhargavdas-io
-- 👀 I’m interested in development of apps
+- 👋 Hi, I’m Bhargav
+- 👀 I’m interested in data analysis and tech.
 - 🌱 I’m currently learning Python and Data Science
 - 📫 How to reach me ...bhargavdas77@hotmail.com
 
