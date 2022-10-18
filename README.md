@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bhargav
-- 👀 I’m interested in data analysis and tech.
-- 🌱 I’m currently learning Python and Data Analysis
+- 👀 I’m interested in tech.
+- 🌱 I’m currently learning scripting/automation and DevOps
 - 📫 How to reach me ...bhargavdas77@hotmail.com
 
 <!---
