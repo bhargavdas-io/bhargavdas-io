@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bhargav
 - 👀 I’m interested in tech.
 - 🌱 I’m currently learning scripting,networking and CyberSecurity.
-- 📫 How to reach me ...bhargavdas77@hotmail.com
+- 📫 How to reach me: bhargavdas77@hotmail.com
 
 <!---
 bhargavdas-io/bhargavdas-io is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
