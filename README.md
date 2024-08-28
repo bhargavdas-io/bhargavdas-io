@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bhargav
 - 👀 I’m interested in tech.
-- 🌱 I’m currently learning scripting,networking and CyberSecurity.
+- 🌱 I’m currently learning scripting,networking and app development.
 - 📫 How to reach me: bhargavdas77@hotmail.com
 
 <!---
